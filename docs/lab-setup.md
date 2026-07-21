@@ -17,7 +17,7 @@ Ubuntu Wazuh Server:
 - Hostname: wazuh-server
 - 4 GB RAM
 - 2 vCPUs
-- 50 GB virtual disk
+- 80 GB virtual disk
 - Network: NAT (DHCP)
 
 Project Progress:
