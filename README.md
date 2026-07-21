@@ -21,5 +21,5 @@ Planned attack simulations:
 
 Project Status:
 
-- Created repo and initial documentation (DONE)
-- Build lab environment (TODO)
+- Created repo and initial documentation
+- Wazuh dashboard is operational 
