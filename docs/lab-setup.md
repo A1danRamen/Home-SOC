@@ -28,8 +28,8 @@ Project Progress:
 - [x] Install Ubuntu Server
 - [x] Configure networking
 - [x] Update Ubuntu
-- [ ] Install Wazuh
-- [ ] Create Windows 11 endpoint
+- [x] Install Wazuh
+- [x] Create Windows 11 endpoint
 - [ ] Install Sysmon
 - [ ] Create Kali attacker
 - [ ] Simulate attacks
