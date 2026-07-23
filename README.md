@@ -23,3 +23,5 @@ Project Status:
 
 - Created repo and initial documentation
 - Wazuh dashboard is operational 
+- Windows 11 VM created and added as endpoint
+- Sysmon installed and telemetry is displayed on the Wazuh dashboard
