@@ -25,3 +25,7 @@ Project Status:
 - Wazuh dashboard is operational 
 - Windows 11 VM created and added as endpoint
 - Sysmon installed and telemetry is displayed on the Wazuh dashboard
+
+Validation Exercise:
+
+In order to validate that the pipeline works, powershell was launched using powershell.exe. This creates an Event ID 1 that indicates process creation. This ID was then identified locally through Event Viewer and then through Wazuh. The two logs are compared to ensure consistency between logs. 
