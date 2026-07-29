@@ -35,9 +35,13 @@ In order to validate that the pipeline works, powershell was launched using powe
  ![Event Viewer Validation Picture](screenshots/EventViewPowershell.png)
 
 Sysmon generated Event ID: 1, Process Create.
+
 Process ID: 5744
+
 Timestamp: 2026-07-29 09:08:28.993
+
 CommandLine: "C:\WINDOWS\System32\WindowsPowerShell\v1.0
+
 \powershell.exe" -nop -w hidden
 
 2. Remotely via Wazuh dashboard
